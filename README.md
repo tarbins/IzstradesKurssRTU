@@ -1,1 +1,1 @@
-"# IzstradesKurssRTU" 
+Kristaps Lukjanovs
